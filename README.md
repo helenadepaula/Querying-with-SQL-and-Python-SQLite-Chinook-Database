@@ -1,7 +1,7 @@
 # Chinook Music Store Data Analysis with SQL and Python
 
 ## About the project
-This is a hands-on Data Analysis project focused on the integration between **Python** and **Relational Databases**. The idea was taken from Roadmap.sh, where you can find many Project ideas for developing Data Analysis skills.
+This is a hands-on Data Analysis project focused on the integration between **Python** and **Relational Databases**. The idea was taken from Roadmap.sh, where you can find many Project ideas for developing Data Analysis skills (https://roadmap.sh/projects/querying-sql-python).
 
 Using the **Chinook** sample database (which simulates a digital music store), the goal was to write SQL queries directly from a Jupyter Notebook to explore the data, extract relevant business metrics and create graphical visualizations of the findings.
 
